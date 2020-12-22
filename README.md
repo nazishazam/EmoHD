@@ -5,6 +5,10 @@ We propose a methodology using supervised machine learning techniques to predict
 
 ![Architecture](https://github.com/nazishazam/EmoHD/blob/main/Architecture.png)
 
+# Instructions:
+
+Html file of juoyter notebook is given in this repo. You can run this code on our dataset which is available on request right now and data set will be available publicly soon once our paper is published. 
+
 # Results:
 ![Results](https://github.com/nazishazam/EmoHD/blob/main/results.PNG)
 
